@@ -1,2 +1,2 @@
-# Chess-new-final
+# Chess-game-variations
 Chess game with different modes and partial pieces using Qt for UI
