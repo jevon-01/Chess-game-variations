@@ -1,0 +1,29 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (ProjetTestQt.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (ProjetTestQt.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  bibliotheque_cours.cpp
+  verification_allocation.cpp
+  ChessBoardArray.cpp
+  ChessWindow.cpp
+  gtest-all.cc
+  King.cpp
+  main.cpp
+  Piece.cpp
+C:\Users\Bsuperkid01\Desktop\Chess new final\ChessWindow.cpp(1,1): warning C4828: The file contains a character starting at offset 0x79 that is illegal in the current source character set (codepage 65001).
+C:\Users\Bsuperkid01\Desktop\Chess new final\ChessWindow.hpp(1,1): warning C4828: The file contains a character starting at offset 0x4b that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'main.cpp')
+  
+C:\Users\Bsuperkid01\Desktop\Chess new final\ChessWindow.hpp(1,1): warning C4828: The file contains a character starting at offset 0x4b that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'ChessWindow.cpp')
+  
+C:\Users\Bsuperkid01\Desktop\Chess new final\ChessBoardArray.cpp(102,13): warning C4189: 'comboBox': local variable is initialized but not referenced
+C:\Users\Bsuperkid01\Desktop\Chess new final\ChessBoardArray.cpp(454,7): warning C4189: 'oppKingColor': local variable is initialized but not referenced
+C:\Users\Bsuperkid01\Desktop\Chess new final\ChessBoardArray.cpp(563,8): warning C4189: 'myValidMoves': local variable is initialized but not referenced
+C:\Users\Bsuperkid01\Desktop\Chess new final\ChessBoardArray.cpp(562,8): warning C4189: 'oppValidMoves': local variable is initialized but not referenced
+C:\Users\Bsuperkid01\Desktop\Chess new final\ChessBoardArray.cpp(618): warning C4715: 'backend::ChessBoardArray::findKingPos': not all control paths return a value
+  moc_ChessWindow.cpp
+  moc_ChessBoardArray.cpp
+C:\Users\Bsuperkid01\Desktop\Chess new final\ChessWindow.hpp(1,1): warning C4828: The file contains a character starting at offset 0x4b that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'x64/Debug/moc/moc_ChessWindow.cpp')
+  
+     Creating library C:\Users\Bsuperkid01\Desktop\Chess new final\x64\Debug\ChessGame.lib and object C:\Users\Bsuperkid01\Desktop\Chess new final\x64\Debug\ChessGame.exp
+  ProjetTestQt.vcxproj -> C:\Users\Bsuperkid01\Desktop\Chess new final\x64\Debug\ChessGame.exe

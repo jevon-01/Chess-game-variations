@@ -1,0 +1,5 @@
+C:/Users/Bsuperkid01/Desktop/Chess new/out/build/CMakeFiles/ProjetTest.dir
+C:/Users/Bsuperkid01/Desktop/Chess new/out/build/CMakeFiles/edit_cache.dir
+C:/Users/Bsuperkid01/Desktop/Chess new/out/build/CMakeFiles/rebuild_cache.dir
+C:/Users/Bsuperkid01/Desktop/Chess new/out/build/CMakeFiles/ProjetTest_autogen_timestamp_deps.dir
+C:/Users/Bsuperkid01/Desktop/Chess new/out/build/CMakeFiles/ProjetTest_autogen.dir

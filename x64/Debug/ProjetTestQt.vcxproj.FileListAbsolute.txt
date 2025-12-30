@@ -1,0 +1,3 @@
+C:\Users\Bsuperkid01\Desktop\Projet_final_et_TD6_INF1015\ProjetTestQt_v2022-03-31\x64\Debug\ProjetTestQt.exe
+C:\Users\Bsuperkid01\Desktop\Chess new\x64\Debug\ChessGame.exe
+C:\Users\Bsuperkid01\Desktop\Chess new final\x64\Debug\ChessGame.exe
